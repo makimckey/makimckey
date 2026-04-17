@@ -5,7 +5,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Python, Java, C++, Verilog
-- **Tools:** Streamlit, GitHub Actions, Docker, Cloudflare Tunnel
+- **Tools:** VScode, GitHub Actions
 
 ## 🚀 Projects
 - **成績可視化ダッシュボード:** 大学の成績（Gコード対応）を可視化するツール
